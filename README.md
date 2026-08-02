@@ -3,7 +3,7 @@
 ## Student Details
 
 - Name: Mantra Patel
-- ID: 24cs072
+- ID: 24cs068
 - Subject: AWDF
 
 ## Practical List
