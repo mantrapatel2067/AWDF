@@ -16,3 +16,10 @@
 | Practical 4 | https://github.com/mantrapatel2067/AWDF/tree/main/practical4 |                                       |
 | Practical 5 | https://github.com/mantrapatel2067/AWDF/tree/main/practical5 |                                       |
 | Practical 6 | https://github.com/mantrapatel2067/AWDF/tree/main/practical6 |                                       |
+| Practical 7 | https://github.com/mantrapatel2067/AWDF/tree/main/practical7 |                                       |
+| Practical 8 | https://github.com/mantrapatel2067/AWDF/tree/main/practical8 |                                       |
+| Practical 9 | https://github.com/mantrapatel2067/AWDF/tree/main/practical9 |                                       |
+| Practical 10 | https://github.com/mantrapatel2067/AWDF/tree/main/practical10 |                                      |
+| Practical 11 | https://github.com/mantrapatel2067/AWDF/tree/main/practical11 |                                      |
+| Practical 12 | https://github.com/mantrapatel2067/AWDF/tree/main/practical12 |                                      |
+| Practical 13 | https://github.com/mantrapatel2067/AWDF/tree/main/practical13 |                                      |
